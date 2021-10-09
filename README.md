@@ -11,7 +11,7 @@
 
 <br />
 
-My name is Kim, a self proclaimed average-enough developer. I am passionate about the approaches we use to solve problems in the software world. It's my personal belief that we should learn as much patterns/tools/architectures as we can but at the same time apply them to the correct use case. There's a lot that I do not know about, so feel free to expand my boundary! 😄
+My name is Kim, a self proclaimed average-enough developer. I am passionate about the approaches we use to solve problems in the software world. It's my personal belief that we should learn as many patterns/tools/architectures as we can but at the same time apply them to the correct use case. There's a lot that I do not know about, so feel free to expand my boundary! 😄
 
 <br />
 
